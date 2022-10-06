@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/srijishnu-devarapalli/projects/OptimalSort/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/srijishnu-devarapalli/projects/OptimalSort/BubbleSort/main.swift": {
+    "dependencies": "/home/srijishnu-devarapalli/projects/OptimalSort/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/srijishnu-devarapalli/projects/OptimalSort/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/srijishnu-devarapalli/projects/OptimalSort/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/srijishnu-devarapalli/projects/OptimalSort/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}
